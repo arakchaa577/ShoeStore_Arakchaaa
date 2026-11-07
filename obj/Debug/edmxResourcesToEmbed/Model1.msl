@@ -1,0 +1,122 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="Хранилище ShoeStoreАракчааModelContainer" CdmEntityContainer="ShoeStoreАракчааEntities1">
+    <EntitySetMapping Name="Manufacturers">
+      <EntityTypeMapping TypeName="ShoeStoreАракчааModel.Manufacturers">
+        <MappingFragment StoreEntitySet="Manufacturers">
+          <ScalarProperty Name="Id_manufacturer" ColumnName="Id_manufacturer" />
+          <ScalarProperty Name="ManufacturerName" ColumnName="ManufacturerName" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="OrderDet">
+      <EntityTypeMapping TypeName="ShoeStoreАракчааModel.OrderDet">
+        <MappingFragment StoreEntitySet="OrderDet">
+          <ScalarProperty Name="id_OrderDet" ColumnName="id_OrderDet" />
+          <ScalarProperty Name="id_Order" ColumnName="id_Order" />
+          <ScalarProperty Name="Articul" ColumnName="Articul" />
+          <ScalarProperty Name="Count" ColumnName="Count" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Orders">
+      <EntityTypeMapping TypeName="ShoeStoreАракчааModel.Orders">
+        <MappingFragment StoreEntitySet="Orders">
+          <ScalarProperty Name="id_order" ColumnName="id_order" />
+          <ScalarProperty Name="OrderNumber" ColumnName="OrderNumber" />
+          <ScalarProperty Name="OrderSKU" ColumnName="OrderSKU" />
+          <ScalarProperty Name="OrderDate" ColumnName="OrderDate" />
+          <ScalarProperty Name="DeliveryDate" ColumnName="DeliveryDate" />
+          <ScalarProperty Name="id_PickupPoint" ColumnName="id_PickupPoint" />
+          <ScalarProperty Name="id_User" ColumnName="id_User" />
+          <ScalarProperty Name="PickupCode" ColumnName="PickupCode" />
+          <ScalarProperty Name="OrderStatus" ColumnName="OrderStatus" />
+          <ScalarProperty Name="id_Product" ColumnName="id_Product" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="PickupPoints">
+      <EntityTypeMapping TypeName="ShoeStoreАракчааModel.PickupPoints">
+        <MappingFragment StoreEntitySet="PickupPoints">
+          <ScalarProperty Name="id_pickupPoint" ColumnName="id_pickupPoint" />
+          <ScalarProperty Name="SKU" ColumnName="SKU" />
+          <ScalarProperty Name="City" ColumnName="City" />
+          <ScalarProperty Name="Street" ColumnName="Street" />
+          <ScalarProperty Name="House" ColumnName="House" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Product">
+      <EntityTypeMapping TypeName="ShoeStoreАракчааModel.Product">
+        <MappingFragment StoreEntitySet="Product">
+          <ScalarProperty Name="ID_Product" ColumnName="ID_Product" />
+          <ScalarProperty Name="Article" ColumnName="Article" />
+          <ScalarProperty Name="id_product_name" ColumnName="id_product name" />
+          <ScalarProperty Name="measurement_unit" ColumnName="measurement unit" />
+          <ScalarProperty Name="price" ColumnName="price" />
+          <ScalarProperty Name="id_supplier" ColumnName="id_supplier" />
+          <ScalarProperty Name="id_manufacturer" ColumnName="id_manufacturer" />
+          <ScalarProperty Name="id_product_category" ColumnName="id_product category" />
+          <ScalarProperty Name="activeEnvironment" ColumnName="activeEnvironment" />
+          <ScalarProperty Name="stockQuantity" ColumnName="stockQuantity" />
+          <ScalarProperty Name="ProductDescription" ColumnName="ProductDescription" />
+          <ScalarProperty Name="Photo" ColumnName="Photo" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="ProductCategories">
+      <EntityTypeMapping TypeName="ShoeStoreАракчааModel.ProductCategories">
+        <MappingFragment StoreEntitySet="ProductCategories">
+          <ScalarProperty Name="id_Category" ColumnName="id_Category" />
+          <ScalarProperty Name="CategoryName" ColumnName="CategoryName" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="ProductNames">
+      <EntityTypeMapping TypeName="ShoeStoreАракчааModel.ProductNames">
+        <MappingFragment StoreEntitySet="ProductNames">
+          <ScalarProperty Name="id_productName" ColumnName="id_productName" />
+          <ScalarProperty Name="ProductName" ColumnName="ProductName" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Roles">
+      <EntityTypeMapping TypeName="ShoeStoreАракчааModel.Roles">
+        <MappingFragment StoreEntitySet="Roles">
+          <ScalarProperty Name="id_role" ColumnName="id_role" />
+          <ScalarProperty Name="RoleName" ColumnName="RoleName" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Suppliers">
+      <EntityTypeMapping TypeName="ShoeStoreАракчааModel.Suppliers">
+        <MappingFragment StoreEntitySet="Suppliers">
+          <ScalarProperty Name="id_Supplier" ColumnName="id_Supplier" />
+          <ScalarProperty Name="SupplierName" ColumnName="SupplierName" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="sysdiagrams">
+      <EntityTypeMapping TypeName="ShoeStoreАракчааModel.sysdiagrams">
+        <MappingFragment StoreEntitySet="sysdiagrams">
+          <ScalarProperty Name="name" ColumnName="name" />
+          <ScalarProperty Name="principal_id" ColumnName="principal_id" />
+          <ScalarProperty Name="diagram_id" ColumnName="diagram_id" />
+          <ScalarProperty Name="version" ColumnName="version" />
+          <ScalarProperty Name="definition" ColumnName="definition" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Users">
+      <EntityTypeMapping TypeName="ShoeStoreАракчааModel.Users">
+        <MappingFragment StoreEntitySet="Users">
+          <ScalarProperty Name="id_user" ColumnName="id_user" />
+          <ScalarProperty Name="id_role" ColumnName="id_role" />
+          <ScalarProperty Name="FullName" ColumnName="FullName" />
+          <ScalarProperty Name="Login" ColumnName="Login" />
+          <ScalarProperty Name="Password" ColumnName="Password" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

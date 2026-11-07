@@ -1,0 +1,67 @@
+C:\Users\Admin\source\repos\ShoeStore_Arakchaa\ShoeStore_Arakchaa\bin\Debug\ShoeStore_Arakchaa.exe.config
+C:\Users\Admin\source\repos\ShoeStore_Arakchaa\ShoeStore_Arakchaa\bin\Debug\ShoeStore_Arakchaa.exe
+C:\Users\Admin\source\repos\ShoeStore_Arakchaa\ShoeStore_Arakchaa\bin\Debug\ShoeStore_Arakchaa.pdb
+C:\Users\Admin\source\repos\ShoeStore_Arakchaa\ShoeStore_Arakchaa\bin\Debug\EntityFramework.dll
+C:\Users\Admin\source\repos\ShoeStore_Arakchaa\ShoeStore_Arakchaa\bin\Debug\EntityFramework.xml
+C:\Users\Admin\source\repos\ShoeStore_Arakchaa\ShoeStore_Arakchaa\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Admin\source\repos\ShoeStore_Arakchaa\ShoeStore_Arakchaa\obj\Debug\ShoeStore_Arakchaa.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\ShoeStore_Arakchaa\ShoeStore_Arakchaa\obj\Debug\AuthorizationWindow.g.cs
+C:\Users\Admin\source\repos\ShoeStore_Arakchaa\ShoeStore_Arakchaa\obj\Debug\MainMenuWindow.g.cs
+C:\Users\Admin\source\repos\ShoeStore_Arakchaa\ShoeStore_Arakchaa\obj\Debug\App.g.cs
+C:\Users\Admin\source\repos\ShoeStore_Arakchaa\ShoeStore_Arakchaa\obj\Debug\ShoeStore_Arakchaa_Content.g.cs
+C:\Users\Admin\source\repos\ShoeStore_Arakchaa\ShoeStore_Arakchaa\obj\Debug\ShoeStore_Arakchaa_MarkupCompile.cache
+C:\Users\Admin\source\repos\ShoeStore_Arakchaa\ShoeStore_Arakchaa\obj\Debug\ShoeStore_Arakchaa_MarkupCompile.lref
+C:\Users\Admin\source\repos\ShoeStore_Arakchaa\ShoeStore_Arakchaa\obj\Debug\AuthorizationWindow.baml
+C:\Users\Admin\source\repos\ShoeStore_Arakchaa\ShoeStore_Arakchaa\obj\Debug\MainMenuWindow.baml
+C:\Users\Admin\source\repos\ShoeStore_Arakchaa\ShoeStore_Arakchaa\obj\Debug\ShoeStore_Arakchaa.g.resources
+C:\Users\Admin\source\repos\ShoeStore_Arakchaa\ShoeStore_Arakchaa\obj\Debug\ShoeStore_Arakchaa.Properties.Resources.resources
+C:\Users\Admin\source\repos\ShoeStore_Arakchaa\ShoeStore_Arakchaa\obj\Debug\ShoeStore_Arakchaa.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\ShoeStore_Arakchaa\ShoeStore_Arakchaa\obj\Debug\ShoeStore_Arakchaa.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\ShoeStore_Arakchaa\ShoeStore_Arakchaa\obj\Debug\ShoeStor.76B1E592.Up2Date
+C:\Users\Admin\source\repos\ShoeStore_Arakchaa\ShoeStore_Arakchaa\obj\Debug\ShoeStore_Arakchaa.exe
+C:\Users\Admin\source\repos\ShoeStore_Arakchaa\ShoeStore_Arakchaa\obj\Debug\ShoeStore_Arakchaa.pdb
+D:\4 курс_1 семестр_Работа 1\ShoeStore_Arakchaa\ShoeStore_Arakchaa\obj\Debug\ShoeStore_Arakchaa.csproj.AssemblyReference.cache
+D:\4 курс_1 семестр_Работа 1\ShoeStore_Arakchaa\ShoeStore_Arakchaa\obj\Debug\ShoeStore_Arakchaa.exe.config
+D:\4 курс_1 семестр_Работа 1\ShoeStore_Arakchaa\ShoeStore_Arakchaa\obj\Debug\AuthorizationWindow.g.cs
+D:\4 курс_1 семестр_Работа 1\ShoeStore_Arakchaa\ShoeStore_Arakchaa\obj\Debug\MainMenuWindow.g.cs
+D:\4 курс_1 семестр_Работа 1\ShoeStore_Arakchaa\ShoeStore_Arakchaa\obj\Debug\App.g.cs
+D:\4 курс_1 семестр_Работа 1\ShoeStore_Arakchaa\ShoeStore_Arakchaa\obj\Debug\ShoeStore_Arakchaa_Content.g.cs
+D:\4 курс_1 семестр_Работа 1\ShoeStore_Arakchaa\ShoeStore_Arakchaa\obj\Debug\ShoeStore_Arakchaa_MarkupCompile.cache
+D:\4 курс_1 семестр_Работа 1\ShoeStore_Arakchaa\ShoeStore_Arakchaa\obj\Debug\ShoeStore_Arakchaa_MarkupCompile.lref
+D:\4 курс_1 семестр_Работа 1\ShoeStore_Arakchaa\ShoeStore_Arakchaa\obj\Debug\ShoeStore_Arakchaa.exe
+D:\4 курс_1 семестр_Работа 1\ShoeStore_Arakchaa\ShoeStore_Arakchaa\obj\Debug\ShoeStore_Arakchaa.pdb
+D:\4 курс_1 семестр_Работа 1\ShoeStore_Arakchaa\ShoeStore_Arakchaa\bin\Debug\ShoeStore_Arakchaa.exe.config
+D:\4 курс_1 семестр_Работа 1\ShoeStore_Arakchaa\ShoeStore_Arakchaa\bin\Debug\ShoeStore_Arakchaa.exe
+D:\4 курс_1 семестр_Работа 1\ShoeStore_Arakchaa\ShoeStore_Arakchaa\bin\Debug\ShoeStore_Arakchaa.pdb
+D:\4 курс_1 семестр_Работа 1\ShoeStore_Arakchaa\ShoeStore_Arakchaa\bin\Debug\EntityFramework.dll
+D:\4 курс_1 семестр_Работа 1\ShoeStore_Arakchaa\ShoeStore_Arakchaa\bin\Debug\EntityFramework.xml
+D:\4 курс_1 семестр_Работа 1\ShoeStore_Arakchaa\ShoeStore_Arakchaa\bin\Debug\ru\EntityFramework.resources.dll
+D:\4 курс_1 семестр_Работа 1\ShoeStore_Arakchaa\ShoeStore_Arakchaa\obj\Debug\AuthorizationWindow.baml
+D:\4 курс_1 семестр_Работа 1\ShoeStore_Arakchaa\ShoeStore_Arakchaa\obj\Debug\MainMenuWindow.baml
+D:\4 курс_1 семестр_Работа 1\ShoeStore_Arakchaa\ShoeStore_Arakchaa\obj\Debug\ShoeStore_Arakchaa.g.resources
+D:\4 курс_1 семестр_Работа 1\ShoeStore_Arakchaa\ShoeStore_Arakchaa\obj\Debug\ShoeStore_Arakchaa.Properties.Resources.resources
+D:\4 курс_1 семестр_Работа 1\ShoeStore_Arakchaa\ShoeStore_Arakchaa\obj\Debug\ShoeStore_Arakchaa.csproj.GenerateResource.cache
+D:\4 курс_1 семестр_Работа 1\ShoeStore_Arakchaa\ShoeStore_Arakchaa\obj\Debug\ShoeStore_Arakchaa.csproj.CoreCompileInputs.cache
+D:\4 курс_1 семестр_Работа 1\ShoeStore_Arakchaa\ShoeStore_Arakchaa\obj\Debug\ShoeStor.76B1E592.Up2Date
+E:\4 курс_1 семестр_Работа 1\ShoeStore_Arakchaa\ShoeStore_Arakchaa\bin\Debug\ShoeStore_Arakchaa.exe.config
+E:\4 курс_1 семестр_Работа 1\ShoeStore_Arakchaa\ShoeStore_Arakchaa\bin\Debug\ShoeStore_Arakchaa.exe
+E:\4 курс_1 семестр_Работа 1\ShoeStore_Arakchaa\ShoeStore_Arakchaa\bin\Debug\ShoeStore_Arakchaa.pdb
+E:\4 курс_1 семестр_Работа 1\ShoeStore_Arakchaa\ShoeStore_Arakchaa\bin\Debug\EntityFramework.dll
+E:\4 курс_1 семестр_Работа 1\ShoeStore_Arakchaa\ShoeStore_Arakchaa\bin\Debug\EntityFramework.xml
+E:\4 курс_1 семестр_Работа 1\ShoeStore_Arakchaa\ShoeStore_Arakchaa\bin\Debug\ru\EntityFramework.resources.dll
+E:\4 курс_1 семестр_Работа 1\ShoeStore_Arakchaa\ShoeStore_Arakchaa\obj\Debug\ShoeStore_Arakchaa.csproj.AssemblyReference.cache
+E:\4 курс_1 семестр_Работа 1\ShoeStore_Arakchaa\ShoeStore_Arakchaa\obj\Debug\AuthorizationWindow.baml
+E:\4 курс_1 семестр_Работа 1\ShoeStore_Arakchaa\ShoeStore_Arakchaa\obj\Debug\AuthorizationWindow.g.cs
+E:\4 курс_1 семестр_Работа 1\ShoeStore_Arakchaa\ShoeStore_Arakchaa\obj\Debug\MainMenuWindow.g.cs
+E:\4 курс_1 семестр_Работа 1\ShoeStore_Arakchaa\ShoeStore_Arakchaa\obj\Debug\App.g.cs
+E:\4 курс_1 семестр_Работа 1\ShoeStore_Arakchaa\ShoeStore_Arakchaa\obj\Debug\ShoeStore_Arakchaa_Content.g.cs
+E:\4 курс_1 семестр_Работа 1\ShoeStore_Arakchaa\ShoeStore_Arakchaa\obj\Debug\ShoeStore_Arakchaa_MarkupCompile.cache
+E:\4 курс_1 семестр_Работа 1\ShoeStore_Arakchaa\ShoeStore_Arakchaa\obj\Debug\ShoeStore_Arakchaa_MarkupCompile.lref
+E:\4 курс_1 семестр_Работа 1\ShoeStore_Arakchaa\ShoeStore_Arakchaa\obj\Debug\MainMenuWindow.baml
+E:\4 курс_1 семестр_Работа 1\ShoeStore_Arakchaa\ShoeStore_Arakchaa\obj\Debug\ShoeStore_Arakchaa.g.resources
+E:\4 курс_1 семестр_Работа 1\ShoeStore_Arakchaa\ShoeStore_Arakchaa\obj\Debug\ShoeStore_Arakchaa.Properties.Resources.resources
+E:\4 курс_1 семестр_Работа 1\ShoeStore_Arakchaa\ShoeStore_Arakchaa\obj\Debug\ShoeStore_Arakchaa.csproj.GenerateResource.cache
+E:\4 курс_1 семестр_Работа 1\ShoeStore_Arakchaa\ShoeStore_Arakchaa\obj\Debug\ShoeStore_Arakchaa.csproj.CoreCompileInputs.cache
+E:\4 курс_1 семестр_Работа 1\ShoeStore_Arakchaa\ShoeStore_Arakchaa\obj\Debug\ShoeStor.76B1E592.Up2Date
+E:\4 курс_1 семестр_Работа 1\ShoeStore_Arakchaa\ShoeStore_Arakchaa\obj\Debug\ShoeStore_Arakchaa.exe
+E:\4 курс_1 семестр_Работа 1\ShoeStore_Arakchaa\ShoeStore_Arakchaa\obj\Debug\ShoeStore_Arakchaa.pdb
